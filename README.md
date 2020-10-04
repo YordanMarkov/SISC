@@ -16,14 +16,14 @@ https://fbchat.readthedocs.io/en/latest/index.html
 https://github.com/punkjj/FB-AutoReply
 
 *To run the services, do:
-> Copy to /lib/systemd/system/sisc.service
-> Type the commands: systemctl enable sisc.service
+1. Copy to /lib/systemd/system/sisc.service
+2. Type the commands: systemctl enable sisc.service
                       systemctl start sisc.service
 *Useful commands:
-> Super user + pass (su)
-> systemctl start sisc_bot.service
-> systemctl status sisc_bot.service (to watch the actions)
-> systemctl enable sisc_bot.service (to start the service with the Raspberry Pi)
-> systemctl disable sisc_bot.service (to NOT start the service with the Raspberry Pi)
-> systemctl stop sisc_bot.service
-> python3 sisc.py **MAIN COMMAND FOR STARTING THE PROGRAMME**
+1. Super user + pass (su)
+2. systemctl start sisc_bot.service
+3. systemctl status sisc_bot.service (to watch the actions)
+4. systemctl enable sisc_bot.service (to start the service with the Raspberry Pi)
+5. systemctl disable sisc_bot.service (to NOT start the service with the Raspberry Pi)
+6. systemctl stop sisc_bot.service
+7. python3 sisc.py **MAIN COMMAND FOR STARTING THE PROGRAMME**
