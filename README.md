@@ -1,6 +1,6 @@
-*SISC**
-**S**ystem **I**nteligent **S**ecurity **C**amera
-Used information:
+*SISC*
+/n**S**ystem **I**nteligent **S**ecurity **C**amera
+/nUsed information:
 https://gilberttanner.com/blog/yolo-object-detection-with-opencv
 https://fbchat.readthedocs.io/en/latest/index.html
 https://github.com/punkjj/FB-AutoReply
