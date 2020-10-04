@@ -17,8 +17,11 @@ Used information:
             
             
 https://gilberttanner.com/blog/yolo-object-detection-with-opencv
+
 https://fbchat.readthedocs.io/en/latest/index.html
+
 https://github.com/punkjj/FB-AutoReply
+
 
 To run the services, do:
 1. Copy to /lib/systemd/system/sisc.service
