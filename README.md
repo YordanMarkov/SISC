@@ -10,9 +10,10 @@
 
 *SISC*
 
+**S**ystem **I**nteligent **S**ecurity **C**amera
 
-            **S**ystem **I**nteligent **S**ecurity **C**amera
-            Used information:
+
+Used information:
             
             
 https://gilberttanner.com/blog/yolo-object-detection-with-opencv
