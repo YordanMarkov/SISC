@@ -9,8 +9,12 @@
 
 
 *SISC*
+
+
             **S**ystem **I**nteligent **S**ecurity **C**amera
             Used information:
+            
+            
 https://gilberttanner.com/blog/yolo-object-detection-with-opencv
 https://fbchat.readthedocs.io/en/latest/index.html
 https://github.com/punkjj/FB-AutoReply
@@ -19,6 +23,8 @@ To run the services, do:
 1. Copy to /lib/systemd/system/sisc.service
 2. Type the commands: systemctl enable sisc.service
                       systemctl start sisc.service
+                      
+                      
 Useful commands:
 1. Super user + pass (su)
 2. systemctl start sisc_bot.service
