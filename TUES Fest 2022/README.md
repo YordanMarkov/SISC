@@ -1,5 +1,5 @@
 # SISC
-***System Inteligent Security Camera***
+***System Intelligent Security Camera***
 * *Мина Славова, Йордан Марков*
 * *11в клас*
 
